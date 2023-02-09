@@ -35,7 +35,7 @@
     "@types/jest": "^26.0.15",
     "@types/lodash": "^4.14.168",
     "@types/luxon": "^1.26.5",
-    "@types/node": "^15.0.1",
+    "@types/node": "^18.13.0",
     "@typescript-eslint/parser": "^4.22.0",
     "@vercel/ncc": "^0.28.4",
     "eslint": "^7.25.0",
